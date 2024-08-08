@@ -76,7 +76,7 @@ This PowerShell script creates a graphical user interface (GUI) for creating use
 - **Template User:**
   ```powershell
   $templateUser = "Template User"  # Change to the appropriate template username
-- **Paswords:**
+- **Password:**
   ```powershell
   $password = "Password1"  # Change to a secure password
 - **Email:**
