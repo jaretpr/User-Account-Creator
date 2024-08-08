@@ -87,7 +87,7 @@ This PowerShell script creates a graphical user interface (GUI) for creating use
   ```powershell
    $driver.FindElementById("USER_FORM-GROUPS_SELECT").SendKeys("New Hires") # Replace with your group name
 
-  ## License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
