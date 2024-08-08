@@ -35,7 +35,7 @@ This PowerShell script creates a graphical user interface (GUI) for creating use
    - Add the directory to your system's PATH.
 
 3. **Place the Script:**
-   - Place the `UserAccountCreator.ps1` script in your desired directory.
+   - Place the `User_Account_Creator.ps1` script in your desired directory.
 
 4. **Modify the Script:**
    - Update the paths, template username, passwords, and email addresses in the script as indicated by the comments.
