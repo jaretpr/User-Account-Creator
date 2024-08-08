@@ -50,7 +50,7 @@ This PowerShell script creates a graphical user interface (GUI) for creating use
 
 3. **Run the Script**
    ```powershell
-   .\UserAccountCreator.ps1
+   .\User_Account_Creator.ps1
 
 4. **Interact with the GUI**
    - **First Name and Last Name:** Enter the first name and last name of the user
