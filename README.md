@@ -58,14 +58,14 @@ This PowerShell script creates a graphical user interface (GUI) for creating use
 
 ## Script Details
 - **Create-UserFolders Function:**
-- Creates user folders in specified paths.
-- Modify the paths in the script as necessary.
+     - Creates user folders in specified paths.
+     - Modify the paths in the script as necessary.
 - **Create-ADUser Function:**
-- Creates a new Active Directory user by copying attributes from a template user.
-- Modify the template username, OU path, domain, and password in the script as necessary.
+     - Creates a new Active Directory user by copying attributes from a template user.
+     - Modify the template username, OU path, domain, and password in the script as necessary.
 - **Selenium Automation:**
-- Automates the process of creating a KnowBe4 user.
-- Update the email and password for logging into KnowBe4 in the script.
+     - Automates the process of creating a KnowBe4 user.
+     - Update the email and password for logging into KnowBe4 in the script.
 
 ## Example Changes
 - **Paths:**
