@@ -84,5 +84,6 @@ This PowerShell script creates a graphical user interface (GUI) for creating use
   $driver.FindElementById("email").SendKeys("your-email@example.com")  # Replace with your email
   $driver.FindElementById("password").SendKeys("YourPassword")  # Replace with your password
 - **Group:**
+  ```powershell
    $driver.FindElementById("USER_FORM-GROUPS_SELECT").SendKeys("New Hires") # Replace with your group name
   
