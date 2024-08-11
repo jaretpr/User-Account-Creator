@@ -34,7 +34,7 @@ function Create-ADUser {
         [string]$firstName,
         [string]$lastName,
         [string]$templateUser = "Template User",  # Change to the appropriate template username
-        [string]$password = "Password1",  # Change to a secure password
+        [string]$password = "Password",  # Change to a secure password
         [string]$ouPath = "OU=General Employees,OU=Users,DC=example,DC=com",  # Change to the appropriate OU path
         [string]$domain = "example.com"  # Change to your domain
     )
