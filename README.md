@@ -1,7 +1,7 @@
 # User Account Creator
 
 ## Description
-This PowerShell script creates a graphical user interface (GUI) for creating user accounts in Active Directory, creating necessary user folders, and adding the user to KnowBe4 for training purposes. The script uses Selenium for automating the KnowBe4 user creation process.
+This PowerShell script creates a graphical user interface (GUI) for creating user accounts in Active Directory, adding the necessary attributes to the Active Directory profile such as proxy addresses, mail, and display name. It also creates the required user folders and adds the user to KnowBe4 for training purposes. The script uses Selenium for automating the KnowBe4 user creation process.
 
 ## Features
 - GUI for user interaction
