@@ -78,7 +78,7 @@ This PowerShell script creates a graphical user interface (GUI) for creating use
   $templateUser = "Template User"  # Change to the appropriate template username
 - **Password:**
   ```powershell
-  $password = "Password1"  # Change to a secure password
+  $password = "Password"  # Change to a secure password
 - **Email:**
   ```powershell
   $driver.FindElementById("email").SendKeys("your-email@example.com")  # Replace with your email
